@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ucc55
-- 👀 I’m interested in ...Azure, Terraform and 
+- 👀 I’m interested in ...Azure, Terraform 
 - 🌱 I’m currently learning ... Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
